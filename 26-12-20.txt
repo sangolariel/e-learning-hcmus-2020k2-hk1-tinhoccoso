@@ -55,4 +55,36 @@ I: Tổng quát về hệ điều hành Window
             - Chiều dài của biễu diễn = n + 1
 
 
+II: Hệ thống tập tin:
+  @content
+  1: Các khái niệm cơ bản
+  2: Tổ chức tập tin theo cây thư mục
+
+  @detail
+  * Khái niệm: Tập tin (viết tắt cho tập thông tin còn gọi là tệp, tệp tin, file)
+  là một tập hợp các thông tin được đặt tên
+
+  *Quy tắc đặt tên: Tên chính[Tên mở rộng -> optinal]
+    -> Tên chính bắt buộc.
+    Tên tập tin gồm các kí tự số, ngoại trừ các kí tự đặc biệt '\' '/', ":" .. vv
+
+  * Tên mỏ rộng dùng để phân loại tập tin:
+    vd: mp3 , pdf, ..vv
+
+  * Thư mục:
+    Khái niệm: Là dạng tập tin đặc biệt, chứa các tập tin hay thư mục con khác.
+    Quy tăc đặt tên: như trên
+    Cây thư mục -> Phân cấp thư mục cha chứa nhiều thư mục con.
+
+  * Đường dẫn:
+    Tuyệt đối: Bắt đàu từ thư mục gốc.
+    Tương đối: Bắt đầu từ thư mục hiện hành.
+
+
+
+
+
+
+
+
         
