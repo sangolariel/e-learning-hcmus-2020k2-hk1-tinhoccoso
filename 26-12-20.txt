@@ -80,7 +80,10 @@ II: Hệ thống tập tin:
     Tuyệt đối: Bắt đàu từ thư mục gốc.
     Tương đối: Bắt đầu từ thư mục hiện hành.
 
+III: Cách bảo vệ an toàn dữ liệu đơn giản:
 
+    Đặt mật khẩu
+    Nén tập tin kèm mk
 
 
 
