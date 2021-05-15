@@ -1,0 +1,30 @@
+B4: Các dịch vụ email mạng xã hội lưu trữ trực tuyến
+
+1: Giới thiệu
+
+  Email clent: Cài trên máy tính người dùng vd: Micoshop Outlock, Gmail ..vv.
+  Địa chỉ: Tên định dạng + tiên email + tên miền.
+  vd: sangolariel14@gmail.com.
+
+2: Chức năng:
+
+  . Gửi nhận Email
+  . Lich làm việc
+  . Số địa chỉ.
+  . Sớ tay.
+
+3: Thuật ngữ: 
+
+  Inbox, Outbox, Delete, Draft ...vv.
+
+4 Giao thức:
+
+  POB/POP3, IMAP.
+
+5 Nhà cung cấp:
+
+  Google: gmail.com
+  Microsoft: outlock.com.
+  Yahoo: mail.yahoo.com.
+
+
