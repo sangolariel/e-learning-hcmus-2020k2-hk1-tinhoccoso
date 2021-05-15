@@ -1,0 +1,60 @@
+ ==> Mạng xã hội (social network)
+
+  1 : Giới thiệu
+    Mạng xã hội là những là những dịch vụ để kết nối các thành viên cùng sở thích trên internet.
+    vd: FACEBOOK. ZALO. ... 
+
+  * Một số tính nawg của mạng xã hội: 
+
+    Chat, call video. Voice chat, share ...v
+    Tìm kiếm bạn.
+    Kết nôi không giớ hạn.
+    Khuyết điểm. -> tính xac thực an toàn thông tin.
+
+  * Một số dịch vụ lưu trữ thông dụng
+
+    Google Drive.
+    Icloud.
+    Zipcloud.
+    ... vv.
+
+
+  * Email marketing là gì?
+
+    Thông tin bán hàng tiếp thị sản phẩaamr -> khách hàng tiềm năng.
+
+  * Email marketing mang lại lợi ích gì?
+
+    Tiết kiêm chi phí.
+    Thống kê được số người tiếp cần thông tin.
+    Tự động hóa marketing.
+
+  * Khó khăn.
+
+    Tỉ lệ nhận được email của khách hàng do dùng bên thứ 3;
+    Khách hàng nhận được nhiều email quảng cáo marketing (spam).
+
+  * Chức năng:
+
+    Quán lí dánh sách email.
+    Theo dõi báo cáo.
+    Tự động hóa chiến dịch.
+    Các mẫu email đa dạng.
+
+==> Lưu trữ trực tuyến đồng bộ dự liêu.
+
+  Dữ liệu lưu trữ trực tuyến được lưu lên cùng với các thiết bị cá nhân.
+
+  * Ưu điểm:
+
+    Không cần dowload thủ công khi cần dữ liệu.
+    Không cần upload thủ công dữ liêu sau khi cập nhật.
+
+  + Nhược điểm:
+
+    Dũ liệu tập trung trong một thư mục.
+
+
+
+
+
