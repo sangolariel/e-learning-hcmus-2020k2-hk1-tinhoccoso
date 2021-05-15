@@ -7,3 +7,16 @@ Chương II: Soạn thảo văn bản.
     B3: Bảng biếu.
     B4: Đồ họa
     B5: Một số chức năng nâng cao.
+
+
+Bài 1: Tổng quan:
+
+  Nội dung:
+  1 giới thiệu microsoft / mc word.
+  2 Các thành phần mc word.
+  3 Một số thao thác căn bản khi soạn thảo văn bản.
+  4 Bộ gõ tiếng việt.
+
+
+
+
