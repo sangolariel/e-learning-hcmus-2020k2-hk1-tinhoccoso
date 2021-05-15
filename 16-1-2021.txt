@@ -1,0 +1,21 @@
+=> Mạng xã hội nhóm - Group.
+
+* Là một loạt chức năng của mạng xã hội, tập hợ nhiều tai khoản, có cùng sơt thích mối quan tâm.
+
+* Một vài chức năng:
+
+  1: Quyền truy cập. => Nhóm công khai nhóm kín nhóm bí mật.
+
+  2: Thêm xóa thành viên.
+
+  3: Quyền đăn bài duyệt bài.
+
+  4: Thêm quán trị.
+
+
+=> Mạng xã hội nhóm - Trang (fanpage).
+
+* Là một mạng xã hội doanh nghiệp giao lưu tương tác giữa doanh nghiệp với khách hang.
+
+* Sản phẩm dịch vụ được đưa lên fanpage dể gt đến người dùng và nhận phản hồi.
+
